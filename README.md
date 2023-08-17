@@ -4,6 +4,9 @@
  
  here the sample output
 
- 
-https://github.com/S-M-Jony/EggTimer/assets/102735936/4eadbdee-ce00-47bb-a92b-7d73063a48db
+
+
+
+
+https://github.com/S-M-Jony/EggTimer/assets/102735936/1ce1d1d1-3b58-4f45-beb6-635a3eb1eccb
 
